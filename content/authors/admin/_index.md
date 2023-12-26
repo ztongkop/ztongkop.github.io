@@ -49,17 +49,17 @@ skills:
         description: ''
         percent: 85
         icon: matlab
-        icon_pack: 
+        icon_pack: fab
       - name: C++
         description: ''
         percent: 75
         icon: cplusplus
-        icon_pack: 
+        icon_pack: fab
       - name: Solidworks
         description: ''
         percent: 75
         icon: solidworks
-        icon_pack: 
+        icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -68,17 +68,17 @@ skills:
         description: ''
         percent: 95
         icon: running
-        icon_pack: 
+        icon_pack: fab
       - name: Metro Map Design
         description: ''
         percent: 65
         icon: metro
-        icon_pack: 
+        icon_pack: fab
       - name: Painting
         description: ''
         percent: 60
         icon: painting
-        icon_pack: 
+        icon_pack: fab
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
