@@ -235,7 +235,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Contact me by following ways.
       # Contact (add or remove contact options as necessary)
       email: ztongkop@foxmail.com
       phone: 8613308421190
@@ -251,7 +251,7 @@ sections:
       autolink: true
       # Email form provider
       form:
-        provider: netlify
+        provider: 
         formspree:
           id:
         netlify:
