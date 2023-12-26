@@ -214,13 +214,28 @@ sections:
     design:
       columns: '2'
       view: citation
-   - block: contact
+  - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
+  - block: tag_cloud
+    content:
+      title: Popular Topics
+    design:
+      columns: '2'
+  - block: contact
     id: contact
     content:
       title: Contact
       subtitle:
       text: |-
-        Contact me by following ways.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: ztongkop@foxmail.com
       phone: 8613308421190
