@@ -72,7 +72,7 @@ skills:
       - name: Metro Map Design
         description: ''
         percent: 65
-        icon: 
+        icon: metro
         icon_pack: 
       - name: Painting
         description: ''
