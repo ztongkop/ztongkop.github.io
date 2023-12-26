@@ -48,17 +48,17 @@ skills:
       - name: Matlab
         description: ''
         percent: 85
-        icon: python
+        icon: matlab
         icon_pack: fab
       - name: C++
         description: ''
         percent: 75
-        icon: chart-line
+        icon: cplusplus
         icon_pack: fas
       - name: Solidworks
         description: ''
         percent: 75
-        icon: database
+        icon: solidworks
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
@@ -72,12 +72,12 @@ skills:
       - name: Metro Map Design
         description: ''
         percent: 65
-        icon: cat
+        icon: metro
         icon_pack: fas
       - name: Painting
         description: ''
         percent: 60
-        icon: camera-retro
+        icon: painting
         icon_pack: fas
 
 # Social/Academic Networking
