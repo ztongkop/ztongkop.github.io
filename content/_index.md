@@ -239,7 +239,6 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: ztongkop@foxmail.com
       phone: 8613308421190
-      appointment_url: 'https://calendly.com'
       address:
         street: N0.5340 Xiping Road
         city: Tianjin
