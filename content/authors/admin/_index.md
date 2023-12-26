@@ -46,17 +46,17 @@ skills:
   - name: Technical
     items:
       - name: Matlab
-        description: ''
+        description: 'Simulation analysis, e.g. PID'
         percent: 85
         icon: 
         icon_pack: 
       - name: C++
-        description: ''
+        description: 'Application to microcontroller programming'
         percent: 75
         icon: 
         icon_pack: 
       - name: Solidworks
-        description: ''
+        description: '3D models of products'
         percent: 75
         icon: 
         icon_pack: 
@@ -65,17 +65,17 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: Running
-        description: ''
+        description: 'marathon runner'
         percent: 95
-        icon: running
+        icon: 
         icon_pack: 
       - name: Metro Map Design
-        description: ''
+        description: 'fan of the Mass Transit Railway'
         percent: 65
-        icon: metro
+        icon: 
         icon_pack: 
       - name: Painting
-        description: ''
+        description: 'painting enthusiast'
         percent: 60
         icon: 
         icon_pack: 
