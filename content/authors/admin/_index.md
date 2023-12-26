@@ -67,7 +67,7 @@ skills:
       - name: Running
         description: ''
         percent: 95
-        icon: person-hiking
+        icon: running
         icon_pack: fas
       - name: Metro Map Design
         description: ''
