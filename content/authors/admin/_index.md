@@ -53,12 +53,12 @@ skills:
       - name: C++
         description: ''
         percent: 75
-        icon: cplusplus
+        icon: 
         icon_pack: 
       - name: Solidworks
         description: ''
         percent: 75
-        icon: solidworks
+        icon: 
         icon_pack: 
   - name: Hobbies
     color: '#eeac02'
@@ -72,12 +72,12 @@ skills:
       - name: Metro Map Design
         description: ''
         percent: 65
-        icon: metro
+        icon: 
         icon_pack: 
       - name: Painting
         description: ''
         percent: 60
-        icon: painting
+        icon: 
         icon_pack: 
 
 # Social/Academic Networking
