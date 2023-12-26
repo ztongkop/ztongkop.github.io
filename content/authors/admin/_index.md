@@ -91,7 +91,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/ztongkop
-  - icon: researchgate-seeklogo.com
+  - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Zhang-Tong-32
   # Link to a PDF of your resume/CV.
