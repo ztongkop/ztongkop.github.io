@@ -134,7 +134,7 @@ sections:
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 2
       # Filter on criteria
       filters:
         folders:
@@ -171,9 +171,9 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
+        - name: Control System
           tag: Deep Learning
-        - name: Other
+        - name: Marathon Training
           tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
