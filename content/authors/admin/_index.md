@@ -70,12 +70,12 @@ skills:
         icon: 
         icon_pack: 
       - name: Metro Map Design
-        description: 'fan of the Mass Transit Railway'
+        description: 'Fan of the Mass Transit Railway'
         percent: 65
         icon: 
         icon_pack: 
       - name: Painting
-        description: 'painting enthusiast'
+        description: 'Painting Enthusiast'
         percent: 60
         icon: 
         icon_pack: 
@@ -105,5 +105,5 @@ social:
 highlight_name: true
 ---
 
-Zhang Tong is a student of mechanical engineering. His research interests include control system, robotics technology and micromanipulation. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Zhang Tong is a student of mechanical engineering. His research interests include control system, robotics technology and micromanipulation. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
