@@ -1,8 +1,6 @@
 ---
 title: 天津马拉松
 date: 2023-10-16 14:16:00
-categories: running
-mathjax: true
 ---
 
 今年的第二次半马
