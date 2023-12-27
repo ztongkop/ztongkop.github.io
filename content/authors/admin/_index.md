@@ -46,17 +46,17 @@ skills:
   - name: Technical
     items:
       - name: Matlab
-        description: 'Simulation analysis, e.g. PID'
+        description: 'Simulation Analysis, e.g. PID Controller'
         percent: 85
         icon: 
         icon_pack: 
       - name: C++
-        description: 'Application to microcontroller programming'
+        description: 'Application to Microcontroller Programming'
         percent: 75
         icon: 
         icon_pack: 
       - name: Solidworks
-        description: '3D models of products'
+        description: '3D Models of Products'
         percent: 75
         icon: 
         icon_pack: 
@@ -65,7 +65,7 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: Running
-        description: 'marathon runner'
+        description: 'Marathon Runner'
         percent: 95
         icon: 
         icon_pack: 
