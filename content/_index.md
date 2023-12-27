@@ -173,8 +173,8 @@ sections:
           tag: '*'
         - name: Control System
           tag: Control System
-        - name: Marathon Training
-          tag: Demo
+        - name: Analog Circuits
+          tag: Analog Circuits
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
