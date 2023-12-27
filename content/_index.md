@@ -134,7 +134,7 @@ sections:
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 2
+      count: 3
       # Filter on criteria
       filters:
         folders:
