@@ -172,7 +172,7 @@ sections:
         - name: All
           tag: '*'
         - name: Control System
-          tag: Deep Learning
+          tag: Control System
         - name: Marathon Training
           tag: Demo
     design:
