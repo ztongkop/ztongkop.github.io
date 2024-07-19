@@ -31,12 +31,12 @@ bio: My research interests include control system, robotics technology and micro
 interests:
   - Robotic Micromanipulation
   - Human-Robot Interaction
-  - Artificial Intelligence
+  - Motion Planning
 
 # Education to show in About widget
 education:
   courses:
-    - course: BSc in Mechanical Engineering
+    - course: B.Eng. in Mechatronic
       institution: Hebei University of Technology
       year: 2024
 
@@ -105,5 +105,5 @@ social:
 highlight_name: true
 ---
 
-Zhang Tong is a student of mechanical engineering. His research interests include control system, robotics technology and micromanipulation. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome to my website! I am a student majoring in mechatronic engineering. Besides, I am a marathon runner and a metro enthusiast. You can see a lot of relevant content on my website.
 {style="text-align: justify;"}
