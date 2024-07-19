@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Student of Mechanical Engineering
+role: Student of Mechatronic Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -29,8 +29,8 @@ bio: My research interests include control system, robotics technology and micro
 
 # Interests to show in About widget
 interests:
-  - Control Theory
-  - Biomedical Engineering
+  - Robotic Micromanipulation
+  - Human-Robot Interaction
   - Artificial Intelligence
 
 # Education to show in About widget
