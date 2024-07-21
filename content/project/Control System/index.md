@@ -1,9 +1,9 @@
 ---
-title: Substitution of Mason's Formula
-summary: An matrix method to obtain the gain of control system
+title: Global Path Planning and Local Path Planning for Mobile Robots
+summary: Implement using Algorithm A and Algorithm B respectively and simulate using MATLAB
 tags:
   - Control System
-date: '2022-11-09T00:00:00Z'
+date: '2023-11-09T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
