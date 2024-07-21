@@ -34,6 +34,11 @@ slides:
 The **A * algorithm** is one of the most effective algorithms for global path planning methods in static environments. It not only considers the shortest distance from the extension point to the starting point, but also takes the shortest distance from the target point as a reference, which can not only achieve the shortest path, but also ensure the inspiration of the path points to avoid blind point selection. When there are few obstacles, fast planning can be carried out by changing the search neighborhood range, which can speed up the approximation to the target point. Its evaluation function is:
 
 
+$$
+\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}
+$$
+
+
 **F(n)=G(n)+F(n)**
 
 Where F (n) is the estimated value of the sum of the distance from node n to the starting point and the distance to the target point; G (n) is the estimated value of the distance from node n to the starting point; H (n) is the estimated value of the distance from node n to the target node. The point with the smallest estimated value F (n) is used as an alternative path node.
