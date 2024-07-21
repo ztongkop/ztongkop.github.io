@@ -39,7 +39,7 @@ $$
 $$
 
 
-**F(n)=G(n)+F(n)**
+$F(n)=G(n)+F(n)$
 
 Where F (n) is the estimated value of the sum of the distance from node n to the starting point and the distance to the target point; G (n) is the estimated value of the distance from node n to the starting point; H (n) is the estimated value of the distance from node n to the target node. The point with the smallest estimated value F (n) is used as an alternative path node.
 
@@ -51,9 +51,9 @@ First, the following assumptions are made:
 2. The position of the target point is (xend, yend); 
 3. H (xi, yi) is the estimated value of the heuristic distance, from which the distance between the two points can be estimated as:	
 
-Euclidean distance: The linear distance estimation method between two points is defined as:
+Euclidean distance: The linear distance estimation method between two points is defined as
 
-H(x_i,y_i)=\sqrt{(x_end-x_i)^2+(y_end-y_i)^2}
+$H(x_i,y_i)=\sqrt{(x_{\mathrm{end}}-x_i)^2+(y_{end}-y_i)^2}$
 
 Manhattan distance: The Manhattan distance is composed of the sum of two distances, namely the horizontal distance and the vertical distance. Its expression can be defined as:
 
