@@ -118,7 +118,7 @@ PLC的输入接口需要21个，每个自由度上有两个限位开关和一个
 
 6.MOVE_JOG函数。用于要求的手动操作，点动控制轴的运行，按住保持运行，松开后停止运行。
 
-完整的代码链接：<a href=https://github.com/ztongkop/resume/blob/main/PLC_Program.pdf"  download="PLC_Program.pdf">PLC源程序</a>
+完整的代码链接：<a href="https://raw.githubusercontent.com/ztongkop/resume/b239aba9bce145d0ca11ecd4117767b2e272afca/PLC_Program.pdf"  download="PLC_Program.pdf">PLC源程序</a>
 
 以下为实验室样机演示图片：
 
