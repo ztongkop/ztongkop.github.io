@@ -1,6 +1,6 @@
 ---
 title: STM32 communication with AUBO robot using MODBUS RTU
-date: 2024-03-25 16:11:24
+date: 2024-05-27 16:11:24
 category: STM32
 ---
 In Modbus communication, the AUBO robot is used as the host and the STM32 is used as the slave.
