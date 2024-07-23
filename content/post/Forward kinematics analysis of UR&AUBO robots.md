@@ -1,6 +1,6 @@
 ---
 title: Forward kinematics analysis of UR&AUBO robots
-date: 2023-12-30 16:11:24
+date: 2024-03-27 16:11:24
 category: robotics
 ---
 Suitable for most UR and AUBO 6-DOF robots
