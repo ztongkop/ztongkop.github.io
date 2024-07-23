@@ -42,14 +42,14 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
+#  - block: skills
+ #   content:
+ #     title: Skills
+ #     text: ''
       # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
+#      username: admin
+#    design:
+#      columns: '1'
   - block: experience
     content:
       title: Experience
@@ -63,7 +63,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Non-standard Design Engineer
-          company: Lai Mai Automation Technology Co.
+          company: Lai Mai Automation Technology Co., Ltd
           company_url: ''
           company_logo: org-gc
           location: Tianjin
@@ -75,8 +75,8 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Hardware Engineer Assistant
-          company: Changsha Best Electric Technology Co.
+        - title: Hardware Engineer
+          company: Hunan INTCON CNC Equipment Co., Ltd
           company_url: ''
           company_logo: org-x
           location: Changsha
